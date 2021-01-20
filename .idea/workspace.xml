@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39b854b8-96b6-4bbe-a671-69cfd7e84a62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FoxMart/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoxMart/app/src/main/java/com/devahmed/islamicbooks/voice/Common/dependencyInjection/BaseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images-To-PDF-Converter-Android/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images-To-PDF-Converter-Android/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images-To-PDF-Converter-Android/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/androidTest/java/com/devahmed/littlechef/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/Utils/PrefManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/adapter/CategoriesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/adapter/CommentsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/adapter/MainSliderAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/adapter/PostAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/adapter/PostsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/adapter/RecyclerTouchListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/adapter/ViewPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/common/BaseObservableMvcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/common/BaseViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/common/MvcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/common/ObservableViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/main/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/main/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/model/CategoryModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/model/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Intro/IntroActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Intro/IntroFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/LoginSigUp/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/LoginSigUp/LoginFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/LoginSigUp/SignUpFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostDetails/PostDetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostDetails/PostDetailsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostDetails/PostDetailsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/PostListItem/PostListItemMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/PostListItem/PostListItemMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/PostListItem/PostsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/PostListMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/PostListMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/PostsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/UseCases/AddPostUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/UseCases/FetchPostesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Posts/PostsList/UseCases/GetPermissionUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/Profile/UserProfileFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/favourite/FavouriteFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/favourite/FavouriteMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/favourite/FavouriteMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/favourite/UseCases/GetFavouritesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/home/FetchPostesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/home/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/home/HomeMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/home/HomeMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/search/Search/SearchFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/search/Search/SearchMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/search/Search/SearchMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/search/Search/UseCases/FetchPostesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/java/com/devahmed/littlechef/ui/search/SearchWithText/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/anim/fade_scale.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/anim/transition_bottom_top.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/anim/transition_right_left.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/anim/translate_left_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/add_post_edittexts_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/backicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/bakery.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/chefman.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/comment_edittext_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/dessert.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/diemeals.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/empty_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/facebook_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/fastfood.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/food.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/gallery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/google_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/grills.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_add_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_arrow_forward_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_comment_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_comment_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_done_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_email_primary_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_favorite_border_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_favorite_border_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_favorite_filled_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_lock_primary_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_menu_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_person_add_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_person_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_person_primary_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_search_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_send_filled_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_send_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_share_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/ic_share_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/image1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/image2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/image_background_effect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/intro1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/intro2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/intro3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/intro_next_btns_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/intro_skip_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/juicesanddrinks.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/loginpage_forword_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/man.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/man2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/material_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/medal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/nexticon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/no_comments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/nodataimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/postdetails_appbar_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/salad.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/seafood.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/search_bar_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/search_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/shimmer_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/suggestion_topcardview_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/suggestions_buttons_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/userphoto_placeholder.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/drawable/void_placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/font/myfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout-land/activity_intro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/activity_intro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/categories_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/categories_row_item2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/comment_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/content_post_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/contentprofile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/dialog_add_post.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/dialog_comments.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/fragment_favourite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/fragment_intro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/fragment_posts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/fragment_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/fragment_search_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/fragment_sign_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/fragment_user_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/home_content.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/home_fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/image_slider_layout_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/post_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/post_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/profile_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/layout/recently_suggested_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/menu/menu_scrolling.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/raw/pop1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/raw/pop2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/raw/tick.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/app/src/test/java/com/devahmed/littlechef/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LittleChef/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM_RecyclerView_Retrofit_LiveData/app/src/main/java/com/devahmed/mvvm_recyclerview_retrofit_livedata/Adapters/PostAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM_RecyclerView_Retrofit_LiveData/app/src/main/java/com/devahmed/mvvm_recyclerview_retrofit_livedata/Adapters/RecyclerTouchListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM_RecyclerView_Retrofit_LiveData/app/src/main/java/com/devahmed/mvvm_recyclerview_retrofit_livedata/ui/main/PostViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM_RecyclerView_Retrofit_LiveData/app/src/main/java/com/devahmed/mvvm_recyclerview_retrofit_livedata/ui/mian2/Main2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM_RecyclerView_Retrofit_LiveData/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM_RecyclerView_Retrofit_LiveData/app/src/main/res/layout/post_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkClassDiagram.suml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/adapters/AnswerKeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/adapters/CardPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/adapters/ExamsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/adapters/ExamsSpinnerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/adapters/ShadowTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/common/BaseObservableMvcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/common/BaseViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/common/MvcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/common/ObservableViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/data/AppDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/data/Repositories/AnswerKeyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/data/Repositories/ExamsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/data/Repositories/QuestionAnswersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/data/dao/AnswerKeyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/data/dao/ExamDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/data/dao/QuestionAnswerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/interfaces/Authenticator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/interfaces/CardAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/interfaces/Evaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/interfaces/Exporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/interfaces/Importer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/models/AnswerKeySchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/models/CardItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/models/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/models/ExamSchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/models/GradedSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/models/GradedSheetSchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/models/QuestionAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/EditAnswerKeyFragment/EditAnswerKeyFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/EditAnswerKeyFragment/EditAnswerKeyFragmentMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/EditAnswerKeyFragment/EditAnswerKeyFragmentMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/IntroSlides/IntroSlidesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/cameraScan/CameraScanMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/cameraScan/CameraScanMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/home/HomeMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/home/HomeMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/ui/splash/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/Analyser/AnalyserUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/Authntecator/AuthenticationUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/Authntecator/utills/AuthenticationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/Authntecator/utills/AuthenticatorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/Authntecator/utills/LicenseAuthenticator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/ExamEvaluator/ExamEvaluatorUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/ExamEvaluator/utills/CameraEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/ExamEvaluator/utills/EvaluationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/ExamEvaluator/utills/ExamEvaluatorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/ExamEvaluator/utills/ImageEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileExporter/FileExporterUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileExporter/utills/ExporterType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileExporter/utills/FileExporterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileExporter/utills/ImageExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileExporter/utills/PDFExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileImporter/FileImporterUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileImporter/utills/ExcelSheetImporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileImporter/utills/ImagesFolderImporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileImporter/utills/ImporterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileImporter/utills/ImporterType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/FileImporter/utills/SingleImageImporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/useCases/PermissionUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/AnimationUtills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/BlurBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/CommonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/DialogUtills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/IdsGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/NetworkUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/ScreenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/java/com/roboeyetec/robomark/utills/ViewAnimationUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/anim/floating_animation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/anim/from_0_to_left_anim.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/anim/from_left_to_0_anim.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable-v24/ic_bookmark_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/assignment_opacity_70.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ds_bg_list_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ds_bg_picker_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ds_picker_box_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/exams_spinner_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/gradient_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_arrow_forward_24_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_assignment_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_bar_chart_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_camera_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_center_focus_weak_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_control_camera_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_edit_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/ic_baseline_show_chart_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/infoicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/keyicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/keyicongray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/logowithname2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/omricon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/omricongray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/round_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/sheet100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/step1icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/step2icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/drawable/step3icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/activity_intro_slides.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/adapter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/exam_item_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/exam_picker_cell.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/fragment_edit_answer_key.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/fragment_saved_answer_keys.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/progress_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/layout/row_exam_set_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/values/arrays.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/main/res/xml/root_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoboMarkOMR/app/src/test/java/com/roboeyetec/robomark/useCases/ExamEvaluator/ExamEvaluatorUseCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tech4FunEcommerce/app/src/main/java/com/devahmed/tech4fun/ecommerce/Screens/SubCategories/CardAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tech4FunEcommerce/app/src/main/java/com/devahmed/tech4fun/ecommerce/Screens/SubCategories/CardPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tech4FunEcommerce/app/src/main/java/com/devahmed/tech4fun/ecommerce/Utils/BlurBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tech4FunEcommerce/app/src/main/java/com/devahmed/tech4fun/ecommerce/Utils/ShadowTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/java/com/ahmedfathy/todo/AddNoteActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/java/com/ahmedfathy/todo/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/java/com/ahmedfathy/todo/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/java/com/ahmedfathy/todo/NoteEditActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/java/com/ahmedfathy/todo/NotesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/anim/item_animation_fall_down.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/anim/layout_animation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/drawable/ic_baseline_add_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/drawable/ic_baseline_check_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/drawable/ic_baseline_close_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/drawable/ic_baseline_delete_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/drawable/ic_baseline_search_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/drawable/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/layout/activity_add_n_ote.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/layout/activity_note_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/layout/login_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/layout/row_note_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/menu/addnote_toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/menu/main_toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/menu/toolbar_editnote.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoNotesTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture-components-samples-master/BasicSample/app/src/main/java/com/example/android/persistence/ScrollingActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture-components-samples-master/BasicSample/app/src/main/res/layout/activity_scrolling.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture-components-samples-master/BasicSample/app/src/main/res/layout/content_scrolling.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../architecture-components-samples-master/BasicSample/app/src/main/res/menu/menu_scrolling.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer_admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/androidTest/java/com/devahmed/techx/aswaqmisr/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Common/MVC/BaseObservableMvcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Common/MVC/BaseViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Common/MVC/MvcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Common/MVC/ObservableViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Common/dependencyInjection/BaseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Common/dependencyInjection/CompositionRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Common/dependencyInjection/ControllerCompositionRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Common/dependencyInjection/MvcViewFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/DeliverCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/ProductSubCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/SubCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AddProducts/AddProductActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AddProducts/AddProductMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AddProducts/AddProductUseCase/AddProductUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AddProducts/AddProductUseCase/GetImageUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AddProducts/AddProductViewMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/AdminFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BillsControl/BillsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BillsControl/BillsItemList/BillsItemMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BillsControl/BillsItemList/BillsItemMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BillsControl/BillsItemList/OrdersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BillsControl/BillsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BillsControl/BillsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BillsControl/UseCase/FetchStringesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BillsControl/UseCase/TakeScreenShotUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BranchesControl/BranchesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BranchesControl/BranchesControlFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BranchesControl/BranchesMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BranchesControl/BranchesMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BranchesControl/UseCases/AddBranchUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BranchesControl/UseCases/FetchBranchesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/BranchesControl/UseCases/GetLocationUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/DeliverCost/DeliverCostAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/DeliverCost/DeliverCostFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/DeliverCost/DeliveryCostMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/DeliverCost/DeliveryCostMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/DeliverCost/UseCases/FetchDeliveryCostesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/HowDidYouFindUsControl/HowAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/HowDidYouFindUsControl/HowFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/HowDidYouFindUsControl/HowMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/HowDidYouFindUsControl/HowMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/HowDidYouFindUsControl/UseCases/FetchStringesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/MinChargeControl/MinChargeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/MinChargeControl/MinChargeMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/MinChargeControl/MinChargeMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/MinChargeControl/UseCase/FetchMinChargesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/NotificationsControl/NotificationsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/NotificationsControl/NotificationsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/NotificationsControl/PushNotificationsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/NotificationsControl/UseCase/NotificationSenderUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/ON_OFF/OnOffAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/ON_OFF/OnOffFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/ON_OFF/OnOffMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/ON_OFF/OnOffMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/OrdersControl/OrderControlItemList/OrderListItemViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/OrdersControl/OrderControlItemList/OrderListItemViewMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/OrdersControl/OrderControlItemList/OrdersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/OrdersControl/OrdersControlFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/OrdersControl/OrdersControlMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/OrdersControl/OrdersControlMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/UsersControl/UserControlsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/UsersControl/UsersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/UsersControl/UsersControlFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/AdminDashboard/UsersControl/UsersControlMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Cart/CartFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Cart/CartItem/CartItemMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Cart/CartItem/CartItemsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Cart/CartItem/CartListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Cart/CartMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Cart/CartMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Cart/UseCase/FetchCartDataUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ContactUs/ContactUsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ContactUs/ContactUsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ContactUs/ContactUsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/HomeMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/HomeMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/OffersSliderList/OffersListItemView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/OffersSliderList/OffersListItemViewMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/OffersSliderList/ProductOffersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/UseCases/AddCategoryUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/UseCases/FetchCategoryUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/categoryList/CategoryAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Home/categoryList/RecyclerTouchListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/HowDidYouHearAboutUs/HowDidYouHearAboutUsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/LocationAtFirstTime/LocationAtFirstTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/LoginRegister/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/LoginRegister/LoginActivityMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/LoginRegister/LoginActivityMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/LoginRegister/LoginRegisterUseCase/LoginRegisterUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/LoginRegister/SignUpFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/LoginRegister/ViewPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/MyOrdersList/OrderListMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/MyOrdersList/OrdersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/MyOrdersList/OrdersListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/MyOrdersList/OrdersListMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/MyOrdersList/UseCases/FetchOrdersUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/OrdersDetails/OrderDetailsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/OrdersDetails/OrderDetailsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/OrdersDetails/OrderDetailsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Orders/OrdersDetails/OrderedProducstAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ProductsShow/ProducstShowFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ProductsShow/ProductsList/ShowProductListItemView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ProductsShow/ProductsList/ShowProductsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ProductsShow/ProductsList/ShowProductsListItemViewMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ProductsShow/ProductsShowMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ProductsShow/ProductsShowMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/ProductsShow/UseCases/FetchProductsUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Search/SearchFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Search/SearchMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Search/SearchMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Settings/SettingsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Settings/SettingsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Settings/SettingsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/Splash/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/SubCategories/SubCategoriesFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/SubCategories/SubCategoriesMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/SubCategories/SubCategoryMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/SubCategories/SubcategoriesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/SubCategories/UseCase/AddSubCategoryUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/SubCategories/UseCase/FetchSubCategories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/UserAccount/AccountFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/UserAccount/AccountMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/UserAccount/AccountMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/UserAccount/UseCases/AddOrdersUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/UserAccount/UseCases/AddUserUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/UserAccount/UseCases/FetchUserInfoFromFirebaseUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Screens/UserAccount/UseCases/UserInfoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/BillCanvasView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/CartManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/GenericFileProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/LanguageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/NotificationsHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/NotificationsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/StatefulRecyclerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/TimeStampFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/java/com/devahmed/techx/aswaqmisr/Utils/UtilsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/res/drawable/logo_aswaq_misr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/res/mipmap-hdpi/ic_launcher1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/res/mipmap-mdpi/ic_launcher1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/main/res/mipmap-xxxhdpi/ic_launcher1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newFoxMart/app/src/test/java/com/devahmed/techx/aswaqmisr/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/libs/glide-3.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/androidTest/java/fb/facebookvideodownloader/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/Files.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/GalleryActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/IntroActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/RecyclerViewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/SettingsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/java/fb/facebookvideodownloader/VideoPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/button_border.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/button_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/click_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/curve.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_exit_to_app_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_feedback_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_info_outline_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_play_circle_filled_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_play_circle_filled_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_refresh_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_repost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_settings_applications_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_share_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/ic_thumb_up_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/intro1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/intro2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/drawable/layer_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/activity_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/activity_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/activity_video_player.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/card_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/dialog_download.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/progress_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/layout/recycler_view_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/main/res/xml/file_provider_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/app/src/test/java/fb/facebookvideodownloader/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebook video downloader/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxMartGooglePlayV10__.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/ProducstShowFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/ProducstShowFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/SubCategories/SubCategoriesFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/SubCategories/SubCategoriesFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/row_category.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_category.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[eda7c4fb]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/foxmart.jks" />
+    <option name="KEY_ALIAS" value="Key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hSuNgOwz7vSDItUxv5dncH9ZjX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="OnlinePharmacy.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_28_x86" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-05T16:26:37.413Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="debug&#10;release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/menu" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/menu" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="OnlinePharmacy.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b854b8-96b6-4bbe-a671-69cfd7e84a62" name="Default Changelist" comment="" />
+      <created>1600016775323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600016775323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl" timestamp="1608887184743">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1608887184743" />
+    <state width="1234" height="172" key="GridCell.Tab.0.bottom" timestamp="1611171030686">
+      <screen x="0" y="27" width="1280" height="741" />
+    </state>
+    <state width="1234" height="172" key="GridCell.Tab.0.bottom/0.27.1280.741@0.27.1280.741" timestamp="1611171030686" />
+    <state width="1234" height="172" key="GridCell.Tab.0.center" timestamp="1611171030686">
+      <screen x="0" y="27" width="1280" height="741" />
+    </state>
+    <state width="1234" height="172" key="GridCell.Tab.0.center/0.27.1280.741@0.27.1280.741" timestamp="1611171030686" />
+    <state width="1234" height="172" key="GridCell.Tab.0.left" timestamp="1611171030685">
+      <screen x="0" y="27" width="1280" height="741" />
+    </state>
+    <state width="1234" height="172" key="GridCell.Tab.0.left/0.27.1280.741@0.27.1280.741" timestamp="1611171030685" />
+    <state width="1234" height="172" key="GridCell.Tab.0.right" timestamp="1611171030686">
+      <screen x="0" y="27" width="1280" height="741" />
+    </state>
+    <state width="1234" height="172" key="GridCell.Tab.0.right/0.27.1280.741@0.27.1280.741" timestamp="1611171030686" />
+    <state x="455" y="177" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1609263167050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="455" y="177" width="446" height="447" key="chooseDestDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1609263167050" />
+  </component>
+</project>
